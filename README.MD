@@ -43,7 +43,7 @@
 
 ## Testing
 
-**The project includes JUnit 5 unit tests for the **`<span class="selected">UserService</span>` layer.
+**The project includes JUnit 5 unit tests .
 
 **To run the unit tests:    *./gradlew test**
 
